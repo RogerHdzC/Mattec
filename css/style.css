@@ -1,7 +1,21 @@
 .navbar-custom {
-    background-color: #4433cc;
-}.navbar-custom {
-    background-color: #4433cc;
-}.navbar-custom {
-    background-color: #4433cc;
+            background-color: #0CC3CB;
+			font-size : xx-large;
+        }
+    .color {
+		background-color: #FE1717;
 }
+     .colorl {
+		 color: white;
+		 text-align: center;
+}
+		 li{
+			 color:white;
+		 }
+		 p{
+			color: white;
+			 text-align: center
+		 }
+		 .carousel{
+			 width: 100%;
+		 }
